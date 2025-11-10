@@ -1,0 +1,18 @@
+# Ignore dataset folder
+archive/
+archive/
+
+# Ignore CSV files
+*.csv
+*.zip
+
+# Common temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.tmp
+
+# Ignore model checkpoints or outputs
+checkpoints/
+models/
+outputs/
